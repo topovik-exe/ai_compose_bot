@@ -1,0 +1,1 @@
+from .open_ai_script import generate_text_by_prompt
